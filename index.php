@@ -34,9 +34,9 @@ $education = [
 
 $experience = [
     [
-        "year" => "June 2022 – Present",
+        "year" => "Sept  2025 – Present",
         "title" => "Software Engineer",
-        "company" => "TechSolutions Inc.",
+        "company" => "Wills Fargo.",
         "tasks" => [
             "Developed and maintained web applications using PHP and MySQL.",
             "Designed and deployed REST APIs for mobile integration.",
