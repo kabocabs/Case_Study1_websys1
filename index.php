@@ -11,7 +11,7 @@ $gender      = "Male";
 $nationality = "Filipino";
 
 // About
-$about = "Driven software engineer with 5+ years of experience in developing and testing mobile and web applications. Skilled in PHP, MySQL, and Flutter.";
+$about = "Driven software engineer with 1 years of experience in developing and testing mobile and web applications. Skilled in PHP, MySQL, and Flutter.";
 
 // Education
 $education = [
