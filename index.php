@@ -1,5 +1,4 @@
-git commit -m "first commit"<?php
-// ==================== Dynamic Data ====================
+<?php
 $name        = "Arjay Cabiles";
 $title       = "Software Engineer";
 $phone       = "0917 123 4567";
@@ -32,7 +31,7 @@ $education = [
     ]
 ];
 
-// Experience
+
 $experience = [
     [
         "year" => "June 2022 – Present",
@@ -46,7 +45,7 @@ $experience = [
     ]
 ];
 
-// Skills
+
 $skills = ["PHP", "MySQL", "HTML, CSS, JS", "Flutter", "Git/GitHub", "C++"];
 ?>
 
